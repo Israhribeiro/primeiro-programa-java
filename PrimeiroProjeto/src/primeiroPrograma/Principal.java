@@ -10,7 +10,7 @@ public class Principal {
 		String nome = in.nextLine();
 		String sobrenome = in.nextLine();
 		
-		System.out.printf("Olá senhor(a) %s %s!\n", nome,sobrenome);
+		System.out.printf("Olá senhor(a) %s %s!\n Até logo!", nome,sobrenome);
 
 	}
 
