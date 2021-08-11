@@ -8,8 +8,9 @@ public class Principal {
 		
 		Scanner in = new Scanner(System.in);
 		String nome = in.nextLine();
+		String sobrenome = in.nextLine();
 		
-		System.out.printf("Olá %s!\n", nome);
+		System.out.printf("Olá %s %s!\n", nome,sobrenome);
 
 	}
 
