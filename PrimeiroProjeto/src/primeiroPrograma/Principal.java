@@ -11,7 +11,6 @@ public class Principal {
 		String sobrenome = in.nextLine();
 		
 		System.out.printf("Olá senhor(a) %s %s!\n Até logo!", nome,sobrenome);
-		//Mais um comentário muito incrível
 
 	}
 
